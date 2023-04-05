@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.header{
+  background-color: blue;
+  color: white;
+}
+.bgcolor{
+background-color: lightgreen;
+
+}
+.buton{
+  border: none;
+  margin-left: 30px;
+}
+.searchbox{
+  position: absolute;
+  left: 40%;
+  width: 30%;
+  
+  border-color: rgb(192, 190, 190);
+}
+#search{
+  width:350px;
+  
+  border-color: rgb(206, 204, 204);
+}
+.site{
+  color:black;
+  font-weight: bold;
+}
+.display{
+  margin-top: 100px;
+}
+.subtn{
+  font-size: large;
+  border: none;
+  
+}
+.sup{
+  color:red
+}
+.yellow{
+  background-color:yellow
+}
+.green{
+  background-color: lightgreen;
+}
+
+
+.size{
+  width: 80px;
+}
+.inp{
+  width: 500px;
+}
+.head{
+  display: flex;
+}
+
+.params{
+  display:flex;
+
+}
+.evev{
+  margin:20px;
+  cursor: pointer;
+}
+.rad2{
+  display: flex;
+}
+.rad{
+  margin:10px;
+}
+.t-area{
+  height: 200px;
+}
+.reshead{
+  display: flex;
+}
+.status{
+  margin-left: 530px;
+}
+.text{
+  margin-left: 530px;
+}
+.res-Area{
+height: 230px;
+}
+
+.left-part{
+  margin-top: 150px;
+  margin-right: 200px;
+  position: absolute;
+  left: 2%;
+
+}
+.auth{
+  display: flex;
+}
+.left{
+  margin: 30px;
+}
+.post{
+  width: 300px;
+}
+.back{
+  background-color: gray;
+}
+.key{
+  margin-left: 20px;
+  font-weight: bold;
+}
+.val{
+  margin-left: 150px;
+  font-weight: bold;
+}
+.des{
+  margin-left: 290px;
+  font-weight: bold;
+}
